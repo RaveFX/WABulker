@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This forces the root div to take up the whole screen so flexbox can center the card */
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+}

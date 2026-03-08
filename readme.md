@@ -1,4 +1,4 @@
-# 🚀 WhatsBulk V2
+# 🚀 WABulker
 **A fully self-hosted, highly secure, and lightweight WhatsApp Bulk Messaging engine.**
 
 Built specifically to run on ultra-low-resource cloud environments (like Oracle Cloud's 1GB RAM Always Free tier), this project uses a **FastAPI** backend, **Playwright** for headless browser automation, and a **React/Vite** frontend. Everything is served from a single containerized process and secured with a custom API key and automatic SSL via **Caddy**.
